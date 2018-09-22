@@ -2,6 +2,8 @@
 
 This development version is currently deployed here: https://abamath-sandbox.firebaseapp.com/
 
+This personal fork will likely be deleted soon.
+
 ## Run this project
 
 This project uses [gatsby](https://www.gatsbyjs.org/). Run these commands in your terminal (command line) to get things up and running on your computer:
